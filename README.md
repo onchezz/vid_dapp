@@ -12,3 +12,5 @@ simple app  for start up
 - watch videos  
 - earn easy nfts
 -  crate you wallet 
+
+[link]  (https://meet.google.com/etu-mnwr-ddv)
