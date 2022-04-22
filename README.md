@@ -1,3 +1,8 @@
 #Rust app
 
-## App aded
+##sample app
+simple app  for start up 
+
+**using languages**
+-rust
+-javascript
