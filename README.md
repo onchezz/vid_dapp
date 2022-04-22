@@ -13,4 +13,4 @@ simple app  for start up
 - earn easy nfts
 -  crate you wallet 
 
-[link]  (https://meet.google.com/etu-mnwr-ddv)
+meet session https://meet.google.com/etu-mnwr-ddv
