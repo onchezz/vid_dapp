@@ -1,5 +1,5 @@
 # Rust app
-
+Enjoy and earn here 
 ## sample app
 simple app  for start up 
 
