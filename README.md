@@ -1,6 +1,6 @@
-#Rust app
+# Rust app
 
-##sample app
+## ample app
 simple app  for start up 
 
 **using languages**
